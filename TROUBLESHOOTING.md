@@ -1,3 +1,4 @@
+cds -v
 # Troubleshooting Guide
 
 Dear Learner,
